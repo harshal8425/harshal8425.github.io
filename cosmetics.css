@@ -1,0 +1,32 @@
+#cosmetics-name{
+	font-family : Copperplate, Papyrus, fantasy;
+	font-size : 30px;
+
+
+}
+#heading{
+	text-align : center;
+	background-color : tomato ;
+	font-size : 300%;
+	/*padding-left : 40%;*/
+
+}
+p{
+	position : static;
+	padding-top:27%;
+	font-size: 150%;
+}
+.image-two{
+
+	border: 3px solid-black;
+}
+
+.column{
+	float:left;
+	width:33.33%;
+	padding:5px;
+	border : 3px tomato;
+}
+*{
+	box-sizing : border-box;
+}
